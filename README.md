@@ -1,2 +1,2 @@
 # ssample
-my sample repository
+my sample repository for learning
